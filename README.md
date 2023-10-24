@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mahima Pandey</h1>
-<h3 align="center">A passionate Java developer.</h3>
+<h3 align="center">A passionate Java developer, learning about open source and technology</h3>
 
 - 💬 Ask me about **Java, MySQL**
 
 - 📫 How to reach me **mahi.x0704@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
