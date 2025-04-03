@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahima Pandey</h1>
 <h3 align="center">A passionate Java developer, learning about open source and technology</h3>
 
-- 💬 Ask me about **Java, MySQL**
+- 💬 Ask me about **Java, SpringBoot, MySQL**
 
 - 📫 How to reach me **mahi.x0704@gmail.com**
 
